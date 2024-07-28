@@ -1,2 +1,2 @@
 "use strict";
-console.log("Hello pakistan")
+console.log("Hello World")
